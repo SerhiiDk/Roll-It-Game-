@@ -1,0 +1,15 @@
+/Users/serhii/Projects/rollIt/rollIt/bin/Debug/net6.0/rollIt
+/Users/serhii/Projects/rollIt/rollIt/bin/Debug/net6.0/rollIt.deps.json
+/Users/serhii/Projects/rollIt/rollIt/bin/Debug/net6.0/rollIt.runtimeconfig.json
+/Users/serhii/Projects/rollIt/rollIt/bin/Debug/net6.0/rollIt.dll
+/Users/serhii/Projects/rollIt/rollIt/bin/Debug/net6.0/rollIt.pdb
+/Users/serhii/Projects/rollIt/rollIt/obj/Debug/net6.0/rollIt.csproj.AssemblyReference.cache
+/Users/serhii/Projects/rollIt/rollIt/obj/Debug/net6.0/rollIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serhii/Projects/rollIt/rollIt/obj/Debug/net6.0/rollIt.AssemblyInfoInputs.cache
+/Users/serhii/Projects/rollIt/rollIt/obj/Debug/net6.0/rollIt.AssemblyInfo.cs
+/Users/serhii/Projects/rollIt/rollIt/obj/Debug/net6.0/rollIt.csproj.CoreCompileInputs.cache
+/Users/serhii/Projects/rollIt/rollIt/obj/Debug/net6.0/rollIt.dll
+/Users/serhii/Projects/rollIt/rollIt/obj/Debug/net6.0/refint/rollIt.dll
+/Users/serhii/Projects/rollIt/rollIt/obj/Debug/net6.0/rollIt.pdb
+/Users/serhii/Projects/rollIt/rollIt/obj/Debug/net6.0/rollIt.genruntimeconfig.cache
+/Users/serhii/Projects/rollIt/rollIt/obj/Debug/net6.0/ref/rollIt.dll
